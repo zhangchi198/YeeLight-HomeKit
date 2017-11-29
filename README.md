@@ -1,3 +1,5 @@
+This project is a copy and modified version of homebridge-yeelight (https://github.com/vvpossible/homebridge_yeelight).
+
 # homebridge-yeelight
 [![npm version](https://badge.fury.io/js/homebridge-yeelight.svg)](https://badge.fury.io/js/homebridge-yeelight)
 
